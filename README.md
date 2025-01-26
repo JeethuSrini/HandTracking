@@ -24,6 +24,7 @@ To set up the required environment, follow these steps(ensure that your in HandT
     ```
 3. Install required libraries for Sam2:
    ```bash
+   git clone https://github.com/JeethuSrini/HandTracking.git && cd HandTracking
    pip install -e .
    ```
 
