@@ -6,9 +6,8 @@ This project implements a robust hand tracking pipeline using **MediaPipe HandLa
 
 Below is a demonstration of the hand tracking pipeline in action. The video shows how the pipeline processes input video frames, detects hand landmarks, refines segmentation masks, and outputs the final video with highlighted hand regions.
 
-![Hand Tracking Demo](./sam2/output_with_masks.mp4)
 
-> If the video does not play, download and open it manually from [this link](./sam2/output_with_masks.mp4).
+Watch the demo video [here](https://drive.google.com/file/d/1NhKWTdGmIXRuuJFRPUTKTe9AI5u_fuJi/view?usp=sharing).
 
 ## Instructions for Setting Up the Environment
 
