@@ -36,11 +36,11 @@ If you are installing on Windows, it's strongly recommended to use [Windows Subs
 
 4. First, we need to download a model checkpoint. All the model checkpoints can be downloaded by running:
 
-```bash
-cd checkpoints && \
-./download_ckpts.sh && \
-cd ..
-```
+   ```bash
+   cd checkpoints && \
+   ./download_ckpts.sh && \
+   cd ..
+   ```
 
 or individually from:
 
@@ -54,7 +54,7 @@ or individually from:
 
 6. Move to second sam2 dir:
     ```bash
-        cd sam2
+    cd sam2
     ```
 
 5. Installing the requirements:
