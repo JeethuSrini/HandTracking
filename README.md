@@ -11,7 +11,7 @@ Watch the demo video [here](https://drive.google.com/file/d/1NhKWTdGmIXRuuJFRPUT
 
 ## Instructions for Setting Up the Environment
 
-To set up the required environment, follow these steps(ensure that your in HandTracking directory(this directory)):
+To set up the required environment, follow these steps:
 
 1. Create a new Conda environment named `handtracking`:
    ```bash
