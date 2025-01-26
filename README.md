@@ -51,7 +51,7 @@ or individually from:
 
 (note that these are the improved checkpoints denoted as SAM 2.1; see [Model Description](#model-description) for details.)
 
-Then SAM 2 can be used in a few lines as follows for image and video prediction.
+
 6. Move to second sam2 dir:
     ```bash
         cd sam2
